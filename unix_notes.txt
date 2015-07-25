@@ -1,0 +1,186 @@
+pwd
+man less
+history
+clear
+~
+ls
+HW\ 2\ -\ Guessing\ Game\ 2.0/
+../
+HW\ 1\ -\ Guessing\ Game/
+Fundamentals/
+Code\ Fellows/
+Repos/
+ld
+Anki/
+Documents/
+Movies/Kippy/
+cd
+ls /Library/
+ls /
+ls ~
+Kippy/
+kip
+Movies/
+cd ../..
+Dungeons\ and\ Dragons/
+cd ..
+cd..
+doc
+cd ~
+Music/
+music
+ls -l
+cd `
+ls -r
+cd /
+man ls
+ls -d
+ls -lh
+ls -B
+ls -rl
+ls -lr
+ls -lt
+ls -t
+t ls
+ls t
+brew update
+curl -fsSL http://git.io/QxUaOQ | sh
+git --version
+echo $PATH
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+fish_update_completions
+brew doctor
+uname
+subl index.html
+code-challenge-2/
+Desktop/
+desk
+./.
+./
+node test.js
+node Desktop/Repos/code-challenge-2/test.js
+subl test.js
+index.html
+Desktop/Repos/code-challenge-2/
+node Desktop/test.js
+node process.argv
+node 2 + 2
+des
+Desktop/test.js
+npm install jshint -g
+man mv
+Day\ One/
+fun
+funda
+Repos/Code\ Fellows/
+p
+repos
+repquota
+sl
+`
+subl guessing_game.html
+man cp
+da
+fund
+f
+touch guessing_game.html
+man mk
+Fundamentals/Day\ One/
+read
+re
+rm -ri Day\ Two/
+cp -ri Day\ One/ Day\ Two/
+rm -r Day\ Two/
+mv test.html test2.html
+Day\ Two/
+rm test2.html
+ls Day\ Two/
+mv test.html Day\ Two/
+../../
+rm c01.css
+rm about.html add-content.js
+cp -r Day\ One/ Day\ Two/
+ls fundamentals
+rm Fundamentals/test
+rm test
+rm testing.html
+rmdir testing.html
+rmdir TestFundamentalsCopy/
+cp -r Fundamentals/ TestFundamentalsCopy
+subl Fundamentals/Day\ One/
+ls Fundamentals/Day\ One/
+subl testing.html
+subl open testing.html
+open testing.html
+cp Fundamentals/Day\ One/about.html testing.html
+ls Fundamentals/
+cp Fundamentals/Day\ One/ Fundamentals/Day\ Three
+cp test.html test2.html
+Repos/Code\ Fellows/Fundamentals/
+man file
+touch Repos/Code\ Fellows/Fundamentals/test
+touch Code\ Fellows/Fundamentals/test.html
+Downloads/
+open ~/.profile
+open ~/.bash_profile
+subl --help
+ls Code\ Fellows/Fundamentals/
+touch Code\ Fellows/Fundamentals/test
+man rmdir
+ls Code\ Fellows/
+ls Day\ One/
+rmdir Day\ Two/
+Day\ Two/ ls
+cd ../
+Code\ Fellows/ ls
+mkdir Code\ Fellows/Fundamentals
+man mkdir
+mkdir Code\ Fellows
+man -k rename
+ls -1
+mkdir Day\ Two
+man -k size
+man -k delete
+ls -1sk
+ls -1s
+PeterBrooks.Mahabharata/
+ls -ct
+ls -a ~
+ls ~ -a
+file Text-Based\ Games/
+Old\ Drive/
+Mandy/
+ls -a
+Pictures/
+Pictures
+Guest/
+G
+Users/
+users
+DiagnosticMessages/
+cd ./
+cwd
+com.apple.clouddocs.asl/
+cd /var/log/
+cd /etc/
+cd /et
+cd Day\ One/
+cd d
+cd Repos/
+cd ~/
+cd ~/Documents/School/
+cd ~/Documents/s
+ls ~/
+ls ../../
+ls ../
+    ***This ^ does! Navigate up one level.***
+ls ././
+    ***This ^ doesn't do anything***
+ls ./
+././
+~/Desktop/
+ls Shared/
+ls./
+ls ~/Repos/
+pws
